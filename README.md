@@ -1,7 +1,7 @@
 # LLAlertView
 支持所有iOS版本的alertview，简单的调用接口
 没有代码侵染，使用runtime动态替换类，使得iOS各个版本都可以使用.
-只需要引入<pre><code>LLAlertView.h</pre></code>即可
+只需要引入<code>LLAlertView.h</code>即可
 
 # Use
 <b1>Display AlertView</b1>
@@ -15,8 +15,8 @@
                              NSLog(@"点了确认");
                       } textFieldCount:0];</pre></code>
 
-<b1>Display AlertView</b1>
-<pre><code>void(^firstBlock)() = ^{
+<b1>Display ActionSheet</b1>
+<pre><code>     void(^firstBlock)() = ^{
         NSLog(@"点了第一个action");
     };
     void(^secondBlock)() = ^{

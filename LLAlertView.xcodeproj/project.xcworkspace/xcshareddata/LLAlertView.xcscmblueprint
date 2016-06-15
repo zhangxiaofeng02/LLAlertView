@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "543F7B4D-9B3D-4BDB-98AF-5679ADFC7C11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668" : "project\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LLAlertView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LLAlertView\/LLAlertView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.baidu.com\/myspace",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c4ccc3fd-b13d-49bf-a705-f618d8f4424a++668"
+    }
+  ]
+}
